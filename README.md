@@ -14,11 +14,12 @@ Business Intelligence Engineer passionate about working with data in many busine
 
 <img src="data-science.jpg" width="45%"/>
 
-![Welcome!](https://github.com/Tina-Sterite/Tina-Sterite/blob/main/welcome.gif)
+![Welcome!](https://github.com/Tina-Sterite/Tina-Sterite/blob/main/welcomev2.gif)
 
+<img src="https://github.com/Tina-Sterite/Tina-Sterite/blob/main/welcomev2.gif" width="60%"/>
 ***banner image rotating gif made smaller***
 
-<img src="https://github.com/Tina-Sterite/Tina-Sterite/blob/main/welcome.gif" width="45%"/>
+<img src="https://github.com/Tina-Sterite/Tina-Sterite/blob/main/welcomev2.gif" width="45%"/>
 
 # **Check out my main projects:**
 
