@@ -10,7 +10,6 @@ Business Intelligence Engineer passionate about working with data in many busine
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" style="max-width: 100%;"></a>
 </p>
 <img src="https://github.com/Tina-Sterite/Tina-Sterite/blob/main/welcome.gif" width="60%"/>
-***banner image rotating gif made smaller***
 
 # **Check out my main projects:**
 
@@ -68,7 +67,7 @@ Here are some ideas to get you started:
 
 
 ```python
-{"Author": "Tina Sterite", "Updated": "2028-08-13" }
+{"Author": "Tina Sterite", "Updated": "2028-08-14" }
 ```
 
 
