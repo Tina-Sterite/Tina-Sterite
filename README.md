@@ -2,7 +2,7 @@
 
 Business Intelligence Engineer passionate about working with data in many business enviroments.  My technical areas of expertise include Oracle SQL, Tableau development, Alteryx development, PostgreSQL, and Python, in Docker and Windows environments.  I have experience with several of Python packages for analytics.  My portfolio will include many projects where I have applied my data analytics, statistics and machine learning skills. <br><br> Contact me to learn more and engage my skills on your project.<br><br>
 
-<a href="https://www.linkedin.com/in/tina-s-974409b/" rel="nofollow">
+<a href="https://www.linkedin.com/in/tina-sterite/" rel="nofollow">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;"></a>
 
 
@@ -67,7 +67,7 @@ Here are some ideas to get you started:
 
 
 ```python
-{"Author": "Tina Sterite", "Updated": "2028-08-14" }
+{"Author": "Tina Sterite", "Updated": "2028-08-16" }
 ```
 
 
