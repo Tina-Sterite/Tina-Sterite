@@ -13,9 +13,25 @@ Business Intelligence Engineer passionate about working with data in many busine
 
 # **Check out my main projects:**
 
-## [Career Portfolio](https://github.com/Tina-Sterite/career_portfolio)
+### [Career Portfolio](https://github.com/Tina-Sterite/career_portfolio)
 
 Application using Pandas, Plotly, Matplotlib, Streamlit.
+
+### [Hotel Analysis](https://github.com/Tina-Sterite/Hotel-Analysis-with-Python)
+
+Jupyter Notebook that steps through using Snowfakery (YAML file) to generate fake data in a PostgreSQL database, then query this data and use pandas, seaborn, matplotlib to visualize data.  (Note: booking dates and stay start dates in Snowfakery could use some faked trends, they're currently spread evenly.)
+
+### [Dockerized Infinite Bookshelf](https://github.com/Tina-Sterite/Dockerized-Infinite-Bookshelf)
+
+Fun, dockerized, streamlit app that allows you to generate books about any subject you want.  This project uses streamlit, groq, llama3, agents, weasyprint.
+
+### [Stock Analysis Agents](https://github.com/Tina-Sterite/stock-analysis-agents)
+
+This was a fun project to get going and to add to.  Great example of using agents to generate stock analsys reports.  Streamlit, yfinance, plotly, LLMs, weasyprint.
+
+### [PostgreSQL Tutorial](https://github.com/Tina-Sterite/Postgres-tutorial)
+
+Work done with https://www.postgresqltutorial.com/ to become PostgreSQL certified.
 
 <!--**alg2code/alg2code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
