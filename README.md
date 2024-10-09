@@ -27,7 +27,7 @@ Fun, dockerized, streamlit app that allows you to generate books about any subje
 
 ### [Stock Analysis Agents](https://github.com/Tina-Sterite/stock-analysis-agents)
 
-This was a fun project to get going and to add to.  Great example of using agents to generate stock analsys reports.  Streamlit, yfinance, plotly, LLMs, weasyprint.
+This was a fun project to fork and get up and running, and to add to.  Great example of using agents to generate stock analsys reports.  Streamlit, yfinance, plotly, LLMs, weasyprint.
 
 ### [PostgreSQL Tutorial](https://github.com/Tina-Sterite/Postgres-tutorial)
 
