@@ -17,6 +17,10 @@ Business Intelligence Engineer passionate about working with data in many busine
 
 Application using Pandas, Plotly, Matplotlib, Streamlit.
 
+### [Tableau Public Profile](https://public.tableau.com/app/profile/tina.sterite7524/vizzes)
+
+Sample Tableau Dashboards and Stories demonstrating skills.
+
 ### [Hotel Analysis](https://github.com/Tina-Sterite/Hotel-Analysis-with-Python)
 
 Jupyter Notebook that steps through using Snowfakery (YAML file) to generate fake data in a PostgreSQL database, then query this data and use pandas, seaborn, matplotlib to visualize data.  (Note: booking dates and stay start dates in Snowfakery could use some faked trends, they're currently spread evenly.)
