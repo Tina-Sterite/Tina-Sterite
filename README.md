@@ -17,6 +17,10 @@ Business Intelligence Engineer passionate about working with data in many busine
 
 Application using Pandas, Plotly, Matplotlib, Streamlit.
 
+### [My Tableau Experience Repo](https://github.com/Tina-Sterite/My-Tableau-Experience)
+
+Below is a link to my Tableau Public profile and in this repo (linked above) I provide a summary and link to each dashboard. 
+
 ### [Tableau Public Profile](https://public.tableau.com/app/profile/tina.sterite7524/vizzes)
 
 Sample Tableau Dashboards and Stories demonstrating skills.
