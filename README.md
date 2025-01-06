@@ -1,5 +1,7 @@
 # **Tina Sterite - Business Intelligence Engineer, AI-Powered Data Analytics Specialist, and Python Developer**
 
+![Alt Text](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=790b7611jmlj3g3euiy1dj2kzvme84suyqp0d2wk2h9o5a8z&ep=v1_gifs_search&rid=giphy.gif&ct=g)
+
 Business Intelligence Engineer passionate about working with data in many business enviroments.  My technical areas of expertise include Oracle SQL, Tableau development, Alteryx development, PostgreSQL, and Python, in Docker and Windows environments.  I have experience with several of Python packages for analytics.  My portfolio will include many projects where I have applied my data analytics, statistics and machine learning skills. <br><br> Contact me to learn more and engage my skills on your project.<br><br>
 
 <a href="https://www.linkedin.com/in/tina-sterite/" rel="nofollow">
@@ -9,7 +11,6 @@ Business Intelligence Engineer passionate about working with data in many busine
 <a href="mailto:tsterite@gmail.com?subject=[GitHub]%20Hello%20Tina" >
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" style="max-width: 100%;"></a>
 </p>
-<img src="https://github.com/Tina-Sterite/Tina-Sterite/blob/main/welcome.gif" width="60%"/>
 
 # **Check out my main projects:**
 
