@@ -2,7 +2,7 @@
 
 ![Alt Text](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=790b7611jmlj3g3euiy1dj2kzvme84suyqp0d2wk2h9o5a8z&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 
-Business Intelligence Engineer passionate about working with data in many business enviroments.  My technical areas of expertise include Oracle SQL, Tableau development, Alteryx development, PostgreSQL, and Python, in Docker and Windows environments.  I have experience with several of Python packages for analytics.  My portfolio will include many projects where I have applied my data analytics, statistics and machine learning skills. <br><br> Contact me to learn more and engage my skills on your project.<br><br>
+Innovative Business Intelligence Engineer with a passion for transforming complex data into actionable insights. With over 15 years of experience in data analytics, report development, and project management, I specialize in leveraging tools like Tableau, Alteryx, and SQL to drive business decisions. My expertise spans from traditional BI to cutting-edge AI-powered analytics, allowing me to bridge the gap between technical implementation and strategic business needs. As a lifelong learner currently pursuing further education in Data Science, I'm committed to staying at the forefront of technology trends. My goal is to empower organizations with data-driven solutions that enhance efficiency, visibility, and decision-making processes. <br><br> Contact me to learn more and engage my skills on your project.<br><br>
 
 <a href="https://www.linkedin.com/in/tina-sterite/" rel="nofollow">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;"></a>
